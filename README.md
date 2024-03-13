@@ -2,7 +2,13 @@
 
 ### Demo 
 
+### Features
+- Home Page: View list of memories, add memory, select & view individual memories
+- Memory details page: Edit/Remove Memory, Add/Remove photos, 
+
 ## Deliverables
+
+
 
 - Clone this repository and create a new branch with your name. Open a pull request on your own instance of the repository.
 - An updated README providing a high level explanation of your implementation.
