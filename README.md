@@ -1,43 +1,59 @@
-# 🚀 Parth's Memory Lane 
+# 🚀 Parth's Memory Lane
 
-### Demo 
+## Demo
+
+*Include a link to the live demo or a video walkthrough of the application here.*
 
 ## Features
-- Home Page:
-  - View list of memories
-  - Sort by timestamp ("newest/oldest first")
-  - Add memory
-  - Select & view individual memories
-- Selected Memory Page:
-  - Edit/Remove Memory
-  - Add/Remove Photos
-- Share Button: Click to copy link to clipboard, anyone with link can see the page
+
+### Home Page:
+
+- View a list of memories.
+- Sort memories by timestamp ("newest/oldest first").
+- Add new memories.
+- Select and view individual memories.
+
+### Selected Memory Page:
+
+- Edit or remove memory details.
+- Add or remove photos associated with the memory.
+
+### Share Button:
+
+- Click to copy the link to the clipboard. Anyone with the link can view the page.
 
 ## Technical Overview
 
-code structure:
-- code is structured in components/page, each page folder contains the components used wihtin the page
-- tailwind styling used for quick develpment
+**Code Structure:**
 
-apiService:
-- added a service file to handle all api requests throughout the react application
+- The code is organized into `components/page` directories. Each page folder contains the components used within that page.
+- Tailwind CSS is utilized for rapid and responsive styling.
 
-storing photos:
-- storiing photos with gcp s3 buckets
-- download links to photos to download are stored in a new table within the database
+**API Service:**
 
-sorting:
-- sorting happens in the back end
+- A service file (`apiService`) is added to handle all API requests throughout the React application.
 
+**Storing Photos:**
 
+- Photos are stored in GCP S3 buckets.
+- Download links to the photos are stored in a new table within the database.
 
+**Sorting:**
 
+- Sorting functionality is implemented on the backend for efficiency.
 
+## Getting Started
 
-- Clone this repository and create a new branch with your name. Open a pull request on your own instance of the repository.
-- An updated README providing a high level explanation of your implementation.
-- **Screenshots or a short video/gif** showing your UI implementation.
-- Update the API to accommodate for your technical design. Run the API by using `npm run serve:api`.
-- The provided mockup is only for reference and inspiration. Feel free to improve it!
+- Clone this repository and create a new branch with your name.
+- Open a pull request on your own instance of the repository.
+- Run the API by using `npm run serve:api`.
 
-### High level implementation over view
+## Contribution
+
+- Provide an updated README with a high-level explanation of your implementation.
+- Include **screenshots or a short video/gif** demonstrating your UI implementation.
+- Feel free to improve upon the provided mockup, using it only for reference and inspiration.
+
+## High-Level Implementation Overview
+
+*Include a brief explanation of your technical design and architecture here.*
