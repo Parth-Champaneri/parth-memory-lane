@@ -7,7 +7,10 @@
   - View list of memories
   - Add memory
   - Select & view individual memories
-- Memory details page: Edit/Remove Memory, Add/Remove photos, 
+- Selected Memory Page:
+  - Edit/Remove Memory
+  - Add/Remove Photos
+- Share Button: Click to copy link to clipboard, anyone with link can see the page
 
 ## Deliverables
 
