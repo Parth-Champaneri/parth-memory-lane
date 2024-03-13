@@ -1,7 +1,10 @@
 # 🚀 Parth's Memory Lane
 
-## Demo
+## Live Link and Demo
+[Live Link](https://memory-lane-ae1f4.web.app)
 [Video Demo](https://youtu.be/vOVjoW2NFa0)
+
+
 ## Features
 
 ### Home Page:
