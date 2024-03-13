@@ -47,4 +47,4 @@
 - Clone this repository and create a new branch with your name.
 - Open a pull request on your own instance of the repository.
 - Run the API by using `npm run serve:api`.
-- Run `npm run build` and `firebase deploy` to build and launch the project (although won't be able to without my creds)
+- Run `npm run build` and `firebase deploy` to build and launch the project 
