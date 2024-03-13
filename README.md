@@ -2,9 +2,10 @@
 
 ### Demo 
 
-### Features
+## Features
 - Home Page:
   - View list of memories
+  - Sort by timestamp ("newest/oldest first")
   - Add memory
   - Select & view individual memories
 - Selected Memory Page:
@@ -12,7 +13,24 @@
   - Add/Remove Photos
 - Share Button: Click to copy link to clipboard, anyone with link can see the page
 
-## Deliverables
+## Technical Overview
+
+code structure:
+- code is structured in components/page, each page folder contains the components used wihtin the page
+- tailwind styling used for quick develpment
+
+apiService:
+- added a service file to handle all api requests throughout the react application
+
+storing photos:
+- storiing photos with gcp s3 buckets
+- download links to photos to download are stored in a new table within the database
+
+sorting:
+- sorting happens in the back end
+
+
+
 
 
 
