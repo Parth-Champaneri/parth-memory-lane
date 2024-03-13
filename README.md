@@ -3,7 +3,10 @@
 ### Demo 
 
 ### Features
-- Home Page: View list of memories, add memory, select & view individual memories
+- Home Page:
+  - View list of memories
+  - Add memory
+  - Select & view individual memories
 - Memory details page: Edit/Remove Memory, Add/Remove photos, 
 
 ## Deliverables
