@@ -47,13 +47,4 @@
 - Clone this repository and create a new branch with your name.
 - Open a pull request on your own instance of the repository.
 - Run the API by using `npm run serve:api`.
-
-## Contribution
-
-- Provide an updated README with a high-level explanation of your implementation.
-- Include **screenshots or a short video/gif** demonstrating your UI implementation.
-- Feel free to improve upon the provided mockup, using it only for reference and inspiration.
-
-## High-Level Implementation Overview
-
-*Include a brief explanation of your technical design and architecture here.*
+- Run `npm run build` and `firebase deploy` to build and launch the project (although won't be able to without my creds)
